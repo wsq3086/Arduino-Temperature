@@ -27,5 +27,6 @@ What did I use
 ===================
 Wire:
 
-http://vishalbhingare.files.wordpress.com/2013/09/arduino-lm35.png
+![alt tag](http://vishalbhingare.files.wordpress.com/2013/09/arduino-lm35.png)
+
 
