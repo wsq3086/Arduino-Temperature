@@ -24,3 +24,8 @@ What did I use
 - Node serialport
 
 
+===================
+Wire:
+
+http://vishalbhingare.files.wordpress.com/2013/09/arduino-lm35.png
+
